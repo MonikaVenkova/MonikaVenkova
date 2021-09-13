@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monika Venkova</h1>
 <h3 align="center">A passionate Learner who loves exploring new fields!</h3>
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![mypic](https://www.dreamstime.com/turn-your-dreams-goals-hand-lettering-trendy-quote-print-t-shirt-mug-poster-other-vector-illustration-image163799261)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikavenkova&label=Profile%20views&color=0e75b6&style=flat" alt="monikavenkova" /> </p>
 
