@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monika Venkova</h1>
 <h3 align="center">A passionate Learner who loves exploring new fields!</h3>
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikavenkova&label=Profile%20views&color=0e75b6&style=flat" alt="monikavenkova" /> </p>
 
