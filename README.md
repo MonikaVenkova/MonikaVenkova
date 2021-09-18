@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monika Venkova</h1>
 <h3 align="center">A passionate Learner who loves exploring new fields!</h3>
 
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/90519288/133143807-4c74be23-a004-467d-a0dd-3e8f9bac8b33.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/90519288/133890738-5e59b35a-8502-4761-a3f3-bb9df1491afa.jpg">
 </p>
 
 
