@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Monika Venkova</h1>
 <h3 align="center">A passionate Learner who loves exploring new fields!</h3>
 
-![inCollage_20210915_190951791](https://user-images.githubusercontent.com/90519288/133470618-9e67205e-a3d5-43e7-b4cd-19b836db9bfa.jpg)
-![dreams](https://user-images.githubusercontent.com/90519288/133143807-4c74be23-a004-467d-a0dd-3e8f9bac8b33.jpg)
+<p align="center">
 <img src="https://user-images.githubusercontent.com/90519288/133143807-4c74be23-a004-467d-a0dd-3e8f9bac8b33.jpg" width="100" height="100">
+</p>
+
+
+
+![dreams](https://user-images.githubusercontent.com/90519288/133143807-4c74be23-a004-467d-a0dd-3e8f9bac8b33.jpg)
+
+<img src="https://user-images.githubusercontent.com/90519288/133143807-4c74be23-a004-467d-a0dd-3e8f9bac8b33.jpg" width="100" height="100">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikavenkova&label=Profile%20views&color=0e75b6&style=flat" alt="monikavenkova" /> </p>
